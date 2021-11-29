@@ -37,7 +37,7 @@ function SocialIcon() {
       <ul>
         <li className="item">
           <a
-            href="https://www.linkedin.com/in/albart-jose-b0a904195/"
+            href="https://www.linkedin.com/in/anup-pandey-170444207/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -46,7 +46,7 @@ function SocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://github.com/AlbartJose"
+            href="https://github.com/Anuppandey009"
             target="_blank"
             rel="noopener noreferrer"
           >
