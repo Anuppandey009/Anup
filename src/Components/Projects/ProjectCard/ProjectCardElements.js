@@ -28,8 +28,8 @@ export const CardLeft = styled.div`
   img {
     border: 5px solid #d24d57;
     border-radius: 3px;
-    height: 300px;
-    width:300px
+    height: 250px;
+    width:310px
 
   }
 `;
