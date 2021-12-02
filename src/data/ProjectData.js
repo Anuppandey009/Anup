@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/images/worklyf1.png",
+    img: "/images/work.png",
     title: "WorkLyf",
     description:
       "An end to end clone of oyorooms.com where you can filter hotel rooms as per cities across India, sort and compare and book your room accordingly and make payments.",
@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "https://worklyf.herokuapp.com/",
   },
   {
-    img: "/images/culthp.png",
+    img: "/images/cult.png",
     title: "Cult.fit",
     description:
       "An end to end clone of cultfit.com where you can  purchase fitness related items like: sports lowers, t shirts, gym equipment and many more thinks. In cult.fit you also get information about health and nutrition related stuff.  Also you can fix one on one coach for you for training. ",
