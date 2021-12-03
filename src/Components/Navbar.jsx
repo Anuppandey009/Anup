@@ -45,8 +45,10 @@ export const Navbar = () => {
             rel="noreferrer"
             target="_blank"
           >
-            Blog
+          
           </a> */}
+      
+          <Link to="/">Contact</Link>
         </div>
         {/* <div className="download">
           <Link to="/files/AlbartJose_Resume.pdf" target="_blank" download>
