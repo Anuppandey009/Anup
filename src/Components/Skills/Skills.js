@@ -30,7 +30,11 @@ function Skills() {
         </div>
         <div className="BigCard">
           <div className="AboutBio tagline2">
-            The <strong>tech stacks</strong> I use are
+             <strong style={{
+               fontSize:"28px",
+               textDecoration:"underline",
+               fontWeight:"500"
+             }}>Tech Stacks</strong> 
           </div>
           <Technologies>
             {stackList.map((stack, index) => (
